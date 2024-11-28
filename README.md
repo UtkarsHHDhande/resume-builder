@@ -35,39 +35,79 @@ npm run dev
 4. Open http://localhost:5173 in your browser
 
 Usage Guide 📝
-1.Fill in your personal information
-2.Add your work experience
-3.Include educational background
-4.List your skills
-5.Add notable projects
-6.Select your preferred template
-7.Export to PDF
+
+1. Follow these steps to create your resume:
+
+2. Fill in your personal information.
+
+3. Add your work experience.
+
+4. Include educational background.
+
+5. List your skills.
+
+6. Add notable projects.
+
+7. Select your preferred template.
+
+8. Export to PDF.
 
 Project Structure 🏗️
 
+Here’s the structure of the project:
+
 resume-builder/
+
 ├── src/
+
 │   ├── components/
+
 │   │   ├── ResumeForm/
+
 │   │   ├── templates/
+
 │   │   └── ...
+
 │   ├── hooks/
+
 │   ├── App.jsx
+
 │   └── main.jsx
+
 ├── public/
+
 └── ...
 
+
+
 Contributing 🤝
-Fork the repository
-Create your feature branch (git checkout -b feature/AmazingFeature)
-Commit your changes (git commit -m 'Add some AmazingFeature')
-Push to the branch (git push origin feature/AmazingFeature)
-Open a Pull Request
+
+To contribute to the project, follow these steps:
+
+1. Fork the repository.
+
+2. Create your feature branch:
+
+   git checkout -b feature/AmazingFeature
+
+3. Commit your changes:
+
+   git commit -m 'Add some AmazingFeature'
+
+4. Push to the branch:
+
+   git push origin feature/AmazingFeature
+
+5. Open a Pull Request.
 
 License 📄
+
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Contact 📧
-Your Name - @UtkarsHHDhande Project Link: https://github.com/UtkarsHHDhande/resume-builder
+
+@UtkarsHHDhande
+ 
+Project Link: https://github.com/UtkarsHHDhande/resume-builder
 
 Built with ❤️ by Utkarsh
